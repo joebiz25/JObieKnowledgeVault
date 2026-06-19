@@ -1,0 +1,27 @@
+{
+  "newFiles": [
+    {
+      "path": "3 Resources/Linux/regex_cheat_sheet.md",
+      "basename": "regex_cheat_sheet"
+    },
+    {
+      "path": "3 Resources/WritingTools/markdown-syntax-basics.md",
+      "basename": "markdown-syntax-basics"
+    },
+    {
+      "path": "1 Projects/HowToLearn/learningTechniques.md",
+      "basename": "learningTechniques"
+    },
+    {
+      "path": "1 Projects/Untitled.base",
+      "basename": "Untitled"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "maxLength": 100,
+  "showExtension": false,
+  "activeFileType": "all",
+  "enableFileTypeFilter": false,
+  "sortOrder": "newest"
+}
