@@ -1,6 +1,14 @@
 {
   "newFiles": [
     {
+      "path": "0 Inbox/Git and Github Basics.md",
+      "basename": "Git and Github Basics"
+    },
+    {
+      "path": "0 Inbox/Cryptography Basics.md",
+      "basename": "Cryptography Basics"
+    },
+    {
       "path": "3 Resources/Linux/regex_cheat_sheet.md",
       "basename": "regex_cheat_sheet"
     },
